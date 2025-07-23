@@ -1,7 +1,17 @@
-# プライバシーポリシー / Privacy Policy
+# Privacy Policy / プライバシーポリシー
 
 ---
+## English
 
+This app uses images captured by the camera only for OCR (Optical Character Recognition) processing and does not transmit them externally.  
+Text data detected by OCR is sent to the IP address (and port) specified by the user within the app.
+
+> **⚠️ The data sent is not encrypted. Please use this app only within a trusted network environment, such as a company or factory LAN.**
+
+Please manage and operate the server or PC specified as the destination at your own responsibility.  
+This app does not collect personal information (such as names or contact details) or provide any data to third parties.
+
+---
 ## 日本語
 
 本アプリでは、カメラで撮影した画像はOCR（文字認識）処理のみに使用し、外部に送信されることはありません。  
@@ -14,14 +24,3 @@ OCRにより検出されたテキストデータは、アプリ内でユーザ�
 
 ---
 
-## English
-
-This app uses images captured by the camera only for OCR (Optical Character Recognition) processing and does not transmit them externally.  
-Text data detected by OCR is sent to the IP address (and port) specified by the user within the app.
-
-> **⚠️ The data sent is not encrypted. Please use this app only within a trusted network environment, such as a company or factory LAN.**
-
-Please manage and operate the server or PC specified as the destination at your own responsibility.  
-This app does not collect personal information (such as names or contact details) or provide any data to third parties.
-
----
